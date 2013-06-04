@@ -1,4 +1,6 @@
 require "press_release/version"
+require 'json'
+require 'restclient'
 
 module PressRelease
   Key = "AIzaSyD-roliwX_RzA7-HvGzVfocxQen8QZvRQY"

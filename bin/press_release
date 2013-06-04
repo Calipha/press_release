@@ -4,7 +4,10 @@ require 'press_release'
 include PressRelease
 
 if $*.empty?
-  puts "press_release <text to translate>"
+  puts "press_release #{PressRelease::VERSION}"
+  puts
+  puts "USAGE:"
+  puts "    press_release <text to translate>"
 else
   all_translate $*.join(" ")
 end

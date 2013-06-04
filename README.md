@@ -1,6 +1,6 @@
 # PressRelease
 
-    Translate your message into 60+ languages.
+Translate your message into 60+ languages.
 
 ## Installation
 
@@ -22,15 +22,15 @@ Or install it yourself as:
 
 ## Description
 
-    Press Release translates a single line from English to all 60+ languages supported by the Google Translate API.
+Press Release translates a single line from English to all 60+ languages supported by the Google Translate API.
 
-    Please email globalcalipha@gmail.com if you are interested in translating from another source language
-    or wish to have a web interface for the same product.  Also ask about our list of global newspaper email
-    addresses.  A very potent list of the whose who.
+Please email globalcalipha@gmail.com if you are interested in translating from another source language
+or wish to have a web interface for the same product.  Also ask about our list of global newspaper email
+addresses.  A very potent list of the whose who.
 
-    We also recommend the CIA world factbook for a list of all global leaders.
+We also recommend the CIA world factbook for a list of all global leaders.
 
-    https://www.cia.gov/library/publications/world-leaders-1/pdf-version/pdf-version.html
+https://www.cia.gov/library/publications/world-leaders-1/pdf-version/pdf-version.html
 
 ## Contributing
 

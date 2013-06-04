@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'press_release'
+include PressRelease
+
+if $*.empty?
+  puts "press_release <text to translate>"
+else
+  all_translate $*.join(" ")
+end

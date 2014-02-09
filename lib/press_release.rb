@@ -3,7 +3,7 @@ require 'json'
 require 'restclient'
 
 module PressRelease
-  Key = "AIzaSyD-roliwX_RzA7-HvGzVfocxQen8QZvRQY"
+  Key = "AIzaSyDTm2Ng0-BSLscM5pI8nbOfki4AzFyNeK0"
 
   def all_translate text
     puts text
